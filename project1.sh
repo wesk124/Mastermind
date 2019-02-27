@@ -2,7 +2,7 @@
 # Arthor: Sheng Wei
 # Date: 10/11/2015
 # Instructor: Dave McPherson
-# File Discription: This is a mastermind game realizing in linux shell
+# File Discription: This is a mastermind game implementing in linux shell
 # 		    script.
 #
 
